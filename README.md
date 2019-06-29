@@ -1,11 +1,4 @@
-# React Tutorial
+# React - Основи на Веб Дизајн
 
-Learn the fundamentals of React, including simple and class components, state, props, and submitting form data.
+Експериментирање со React платформата 
 
-### [View the Tutorial](https://www.taniarascia.com/getting-started-with-react/)
-
-## License
-
-The code is open source and available under the [MIT License](LICENSE).
-
-Written by [Tania Rascia](https://www.taniarascia.com).
